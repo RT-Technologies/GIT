@@ -1,0 +1,19 @@
+$ history
+    1  ls
+    2  cd Desktop
+    3  ls
+    4  git init
+    5  git config --global user.name "7jagdeesh"
+    6  git config --global user.email "7jagdeesh@gmail.com"
+    7  git remote add origin https://github.com/7jagdeesh/Reddy.git
+    8  git fetch origin master
+    9  git pull
+   10  git pull origin master
+   11  git fetch origin https://github.com/7jagdeesh/Reddy.git
+   12  git status
+   13  git add Python Code.txt
+   14  git add Python Code
+   15  git add 'Python Code.txt'
+   16  git status
+   17  git commit -m 'Python Code.txt'
+   18  git push origin master
